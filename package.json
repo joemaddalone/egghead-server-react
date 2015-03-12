@@ -1,0 +1,16 @@
+{
+  "name": "egghead-server-side-react",
+  "version": "1.0.0",
+  "description": "Egghead Server-side React",
+  "main": "express.js",
+  "dependencies": {
+    "express": "^4.12.2",
+    "react": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Maddalone",
+  "license": "ISC"
+}
